@@ -1,16 +1,18 @@
-## Hi there 👋
+# 💫 About Me:
+<br>I’m a Digital Marketing Manager at SkillManthan Technologies Pvt. Ltd., passionate about driving brand growth and digital visibility through data-driven marketing strategies. With hands-on experience across SEO (On-Page & Off-Page), Social Media Marketing, and Web Development, I help businesses strengthen their online presence and convert traffic into measurable results.<br><br>My expertise includes:<br><br>🔍 Search Engine Optimization (SEO): Keyword research, technical SEO, content optimization, link building<br><br>📱 Social Media Marketing: Strategy, content planning, campaign execution, and analytics<br><br>🌐 Web Development: SEO-friendly websites focused on performance and user experience<br><br>📊 Brand Growth: Improving rankings, engagement, and lead generation through integrated digital strategies<br><br>I have worked with diverse projects where I successfully improved search rankings, boosted organic traffic, and enhanced brand credibility across digital platforms.<br><br>Currently, I am open to full-time roles such as SEO Executive, Social Media Marketing Specialist, and Digital Marketing Executive, and I am also available for freelance projects.<br><br>📍 Based in Kanpur, Uttar Pradesh, India<br>🎓 Education: Government Polytechnic Sikandra, Kanpur Dehat<br><br>Let’s connect if you’re looking for someone who can turn digital strategies into real business growth. 🚀
 
-<!--
-**Anirudhiitk/Anirudhiitk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+## 🌐 Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/brandedcoders) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/akiitk) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@brandedcoders) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:brandedcoders@gmail.com) 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# 💻 Tech Stack:
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white) ![Adobe After Effects](https://img.shields.io/badge/Adobe%20After%20Effects-9999FF.svg?style=for-the-badge&logo=Adobe%20After%20Effects&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=Anirudhiitk&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=Anirudhiitk&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Anirudhiitk&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+---
+[![](https://visitcount.itsvg.in/api?id=Anirudhiitk&icon=2&color=0)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
